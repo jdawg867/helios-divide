@@ -1,0 +1,5 @@
+Label,
+Button,
+TextElement {
+    -unity-font-definition: url("project:/Assets/TextMesh Pro/Fonts/SourceHanSerifCN-Regular.otf");
+}

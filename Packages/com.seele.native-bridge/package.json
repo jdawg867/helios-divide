@@ -1,0 +1,15 @@
+{
+    "name": "com.seele.native-bridge",
+    "displayName": "Native Bridge",
+    "author": { "name": "Seele", "url": "https://seele.com/" },
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "description": "Provides an efficient async/await integration to Unity.",
+    "keywords": [ "async/await", "async", "Task", "UniTask" ],
+    "license": "MIT",
+    "category": "Bridge",
+    "dependencies": {
+        "com.cysharp.unitask": "2.5.10",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+    }
+}
