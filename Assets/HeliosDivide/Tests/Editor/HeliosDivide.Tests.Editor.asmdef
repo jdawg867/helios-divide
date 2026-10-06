@@ -1,0 +1,7 @@
+{
+  "name": "HeliosDivide.Tests.Editor",
+  "references": ["HeliosDivide.Runtime", "Unity.InputSystem"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

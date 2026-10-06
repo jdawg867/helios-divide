@@ -1,0 +1,5 @@
+{
+  "name": "HeliosDivide.Runtime",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}

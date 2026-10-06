@@ -1,0 +1,6 @@
+{
+  "name": "HeliosDivide.Editor",
+  "references": ["HeliosDivide.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
